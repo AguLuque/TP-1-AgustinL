@@ -25,6 +25,8 @@ let dispositivos = [
   },
 ];
 
+let nextId = 4;
+
 function getAll() {
   return dispositivos;
 }
