@@ -2,19 +2,6 @@
 
 Microservicio Node.js + Express para gestionar dispositivos de red.
 
-## Instalación y ejecución
-
-```bash
-# 1. Clonar, descomprimir el proyecto
-cd dispositivos-api
-
-# 2. Instalar dependencias
-npm install
-
-# 3. Correr el servidor (puerto 3000 por defecto)
-node index.js
-```
-
 ## Autenticación
 
 Todos los endpoints requieren el siguiente header: Authorization: 1234
